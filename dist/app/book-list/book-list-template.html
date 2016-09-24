@@ -1,0 +1,10 @@
+<section>
+    <button ng-click="reverse=!reverse">reverse --</button>
+
+    <book-card ng-repeat="item in $ctrl.books | orderBy:title:reverse" 
+    title="item.title"
+    author="item.author"
+    category="item.category"
+    ></book-card>
+
+<section>

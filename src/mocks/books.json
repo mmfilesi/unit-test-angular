@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+    "author": "Dan Sullivan", 
+    "title": "NO SQL for mere mortals", 
+    "publisher": "Pearson Education", 
+    "year": 2015, 
+    "category": "BBDD", 
+    "subcategories": ["no SQL"]
+    },
+    
+    {
+    "author": "Mario Casciaro", 
+    "title": "Node.js Design Patterns", 
+    "publisher": "Packt Publishing", 
+    "year": 2014, 
+    "category": "Node", 
+    "subcategories": ["design patterns"]
+    }
+  ]
+}
